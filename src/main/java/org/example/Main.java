@@ -22,5 +22,6 @@ public class Main {
             }
             festivalAttendeThread.start();
         }
+  //      festivalStatisticsThread.stop();
     }
 }
